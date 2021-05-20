@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lissard-Interactive
+- 👀 I’m interested in Computer programming and engineering
+- 🌱 I’m currently learning Python!
+- 💞️ I’m looking to collaborate on Pydos!
+- 📫 How to reach me jb6997@students.responsiveed.com OR totallyjoel11@gmail.com
